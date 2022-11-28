@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700;800&family=Inter:wght@400;500;600;700&family=Rubik:wght@600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+$maxWidthContainer: 1280px;
+$md1: $maxWidthContainer + 12;
+$md2: 991.98px;
+$md3: 767.98px;
+$md4: 479.98px;
